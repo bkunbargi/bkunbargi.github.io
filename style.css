@@ -1,7 +1,11 @@
 <style>
   .head_background {
-    background-color: red ;
+    background-color: AliceBlue ;
+
 }
+  body{
+    background-color: White;
+  }
 
 
 </style>
