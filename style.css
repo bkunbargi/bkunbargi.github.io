@@ -2,9 +2,24 @@
   .head_background {
     background-color: AliceBlue ;
 
-}
-  body{
+        }
+  html,body{
     background-color: White;
+    margin:0;
+
+  }
+  h1,p,h3,ul{
+    margin:0px;
+    padding:0px;
+  }
+  h2{
+    margin:0px;
+    padding:0px;
+    color: #4d4d4d;
+  }
+  div{
+    margin:0px;
+    padding:0px;
   }
 
 
