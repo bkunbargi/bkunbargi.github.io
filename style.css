@@ -1,5 +1,11 @@
 <style>
   .head_background {
     color: red ;
+}
+  h1 {
+    color: black;
+    }
+  body {
+    background-color: green;
   }
 </style>
